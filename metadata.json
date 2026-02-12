@@ -1,0 +1,8 @@
+
+{
+  "name": "PetControl Dashboard",
+  "description": "Uma plataforma completa para gestão inteligente de pet shops, permitindo controle de agendamentos, clientes, pets, produtos e serviços em um só lugar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
